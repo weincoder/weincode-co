@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/weincode-co/",
+    "public": "dist/weincode-co/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
